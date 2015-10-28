@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">OttoExample</string>
     <string name="title_activity_maps">Map</string>
+    <string name="url_ciudades">http://api.cinepolis.com.mx/consumo.svc/json/obtenerCiudades</string>
 </resources>
